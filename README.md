@@ -74,3 +74,10 @@ During execution, the script logs:
 - Submission is done once after polling completes
 - Dedup key uses both `roundId` and `participant`
 - Leaderboard sorting is descending by score
+
+## Sample Output
+1. Bob: 295
+2. Alice: 280
+3. Charlie: 260
+Total combined score: 835
+Server response: { regNo: '2024CS101', submittedTotal: 835, attemptCount: 120 }
