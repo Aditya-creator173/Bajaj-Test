@@ -16,9 +16,11 @@ This project solves the SRM quiz validator assignment by:
 ## Project Structure
 
 ```text
-quiz-leaderboard/
+Bajaj-Test/
+├── .gitignore
 ├── index.js
 ├── package.json
+├── package-lock.json
 └── README.md
 ```
 
