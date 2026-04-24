@@ -80,4 +80,5 @@ During execution, the script logs:
 2. Alice: 280
 3. Charlie: 260
 Total combined score: 835
+
 Server response: { regNo: '2024CS101', submittedTotal: 835, attemptCount: 120 }
